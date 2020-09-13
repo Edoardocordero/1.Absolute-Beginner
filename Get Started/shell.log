@@ -1,0 +1,17 @@
+2017-08-29 20:24:18 - // include directory, this will be replaced by the kernel
+2017-08-29 20:24:18 - #I "/home/nbcommon/IfSharp/bin"
+2017-08-29 20:24:18 - // load base dlls
+2017-08-29 20:24:18 - #r "IfSharp.Kernel.dll"
+2017-08-29 20:24:18 - #r "NetMQ.dll"
+2017-08-29 20:24:18 - // open the global functions and methods
+2017-08-29 20:24:18 - open IfSharp.Kernel
+2017-08-29 20:24:18 - open IfSharp.Kernel.Globals
+2017-08-29 20:24:21 - F# Interactive for F# 4.1
+2017-08-29 20:24:21 - Freely distributed under the Apache 2.0 Open Source License
+2017-08-29 20:24:21 - For help type #help;;
+2017-08-29 20:24:21 - > val it : ResizeArray<System.Type * (obj -> seq<string * string> * string)> =
+2017-08-29 20:24:21 -   seq []
+2017-08-29 20:24:21 - --> Added '/home/nbcommon/IfSharp/bin' to library include path
+2017-08-29 20:24:21 - --> Referenced '/home/nbcommon/IfSharp/bin/IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2017-08-29 20:24:21 - --> Referenced '/home/nbcommon/IfSharp/bin/NetMQ.dll' (file may be locked by F# Interactive process)
+2017-08-29 20:24:21 - Unknown content type on shell. msg_type is `comm_info_request`
